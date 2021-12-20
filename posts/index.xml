@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ishan</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Ishan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ishan Chag</copyright>
+    <lastBuildDate>Fri, 17 Dec 2021 10:49:33 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Project</title>
+      <link>/posts/myfirstproject/</link>
+      <pubDate>Fri, 17 Dec 2021 10:49:33 +0000</pubDate>
+      
+      <guid>/posts/myfirstproject/</guid>
+      <description>This week I have completed my first publicly viewable web design project You can view it here. This project was a test to see how easy and intuitive Google Sites was being a piece of free software. The experiment was extremely interesting and I found Google Sites to be a neat piece of software. Highlight features include: embed code feature (useful for iframes and other HTML items), branding features (auto colour schemes and handling of header and footer) and the free hosting - Google Sites hosts your website, even with a custom domain, free of charge with a few simple changes in the DNS records.</description>
+      <content>&lt;p&gt;&lt;strong&gt;This week I have completed my first publicly viewable web design project&lt;/strong&gt;
+You can view it &lt;a href=&#34;https://www.apexracing.uk&#34;&gt;here&lt;/a&gt;. This project was a test to see how easy and intuitive Google Sites was being a piece of free software. The experiment was extremely interesting and I found Google Sites to be a neat piece of software. Highlight features include: embed code feature (useful for iframes and other HTML items), branding features (auto colour schemes and handling of header and footer) and the free hosting - Google Sites hosts your website, even with a custom domain, free of charge with a few simple changes in the DNS records. I would highly recommend this for people starting out in Web Development because of how it nicely combined simplicity and flexibility all in a free web-based program.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Welcome to my site</title>
+      <link>/posts/welcometomysight/</link>
+      <pubDate>Fri, 17 Dec 2021 10:11:21 +0000</pubDate>
+      
+      <guid>/posts/welcometomysight/</guid>
+      <description>Hi, welcome to my site. My name is Ishan Chag and I am an aspiring web developer. More site changes coming in the future. On this site I will link and show my projects and talk about my experience using new software technologies.</description>
+      <content>&lt;p&gt;&lt;strong&gt;Hi, welcome to my site.&lt;/strong&gt; My name is Ishan Chag and I am an aspiring web developer. More site changes coming in the future. On this site I will link and show my projects and talk about my experience using new software technologies.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
